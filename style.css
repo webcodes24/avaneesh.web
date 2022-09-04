@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    background: linear-gradient( #42e9f5 20%,#42b3f5 70%);
+  
+  }
+  .img{
+    height:500px;
+    width:500px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: cornsilk;
+  
+  }
+  #intro{
+    background: linear-gradient( #4275f5 20%,#bcf542 70%)
+
+  }
+  
+  
+
+  #games{
+    background: linear-gradient( #4275f5 20%,#bcf542 70%)
+  }
+ 
+  
+  .p{
+  text-align: left;
+  color: rgb(55, 84, 212);
+  size: 40px;
+  
+  }
+  .menu{
+    list-style: none;
+     font-family:cursive;
+    float:right;
+     top:10px;
+     right:30px;
+     cursor: pointer;
+     color:black;
+   }
+   .menu a{
+     color:black !important;
+   }
+  
+  
+  
+  
+  .line{
+    height: 6px;
+    background-color: rgba(0, 0, 0, 0.136);
+    width:70px;
+    margin:8px auto;
+  }
+  
+ 
+  
+  
+  .link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+  }
+   .link:hover{
+    background-color:beige;
+  
+  
+  
+  
+  
+    
+    margin:20px;
+  
+   }
